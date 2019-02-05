@@ -16,3 +16,39 @@ Server ip（服务器ip）：
 <br>Encryption （加密方式）：aes-256-cfb
 <br>Protocol （协议）：origin
 <br> Obfs (混淆) ：plain
+
+Server ip（服务器ip）：103.114.161.158
+<br>Port（端口）：6666
+<br>Password（密码）：renminbao.com
+<br>Encryption （加密方式）：AES-256-CFB
+<br>Protocol （协议）：origin
+<br> Obfs (混淆) ：plain
+
+Server ip（服务器ip）：103.114.161.160
+<br>Port（端口）：8888
+<br>Password（密码）：ntdtv.com
+<br>Encryption （加密方式）：Aes-256-cfb
+<br>Protocol （协议）：origin
+<br> Obfs (混淆) ：plain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

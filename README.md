@@ -3,6 +3,8 @@ free shadowsocks account shadowsocks account free ss free ss account free over t
 
 These are the ss accounts that I use frequently on the Internet. Now all of them are shared for everyone to use (I will update for life)&nbsp;中文译：这些是我经常在互联网上使用的ss帐户。 现在所有人都可以共享使用（我将终身更新）Zhèxiē shì wǒ jīngcháng zài hùliánwǎng shàng shǐyòng de ss zhànghù. Xiànzài suǒyǒu rén dōu kěyǐ gòngxiǎng shǐyòng (wǒ jiāng zhōngshēn gēngxīn)
 
+<br>Do not use it for illegal activities! !
+
 Server ip（服务器ip）：
 <br>Port（端口）：
 <br>Password（密码）：
@@ -73,9 +75,9 @@ Server ip（服务器ip）：
 <br>
 <br>
 <br>*If you have any difficulties in using the operation and need support, please contact me through the following methods，I try my best to help everyone.don't money.——如果您在使用操作方面遇到任何困难并需要支援，请通过以下方式与我联系，我尽力帮助每个人,不要钱。
-<br>1QQ:1809885836
-<br>2微信：snkciy
-<br>3
+<br>1：QQ 1809885836
+<br>2:微信snkciy
+<br>3:e-mail ndtcy9@tom.com
 
 
 

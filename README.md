@@ -69,8 +69,10 @@ Server ip（服务器ip）：
 <br>1:支付宝账户 aaaa32110@tom.com
 <br>2：微信 付款码超链接:https://pan.baidu.com/s/1Uk7sHh1SQZkd9rqcgJm5IA 提取码:hjx7 
 <br>3:PayPal:I have not registered paypal for the time being. If this article can help foreign compatriots, I am honored.
-
-
+<br>
+<br>
+<br>
+<br>If you have any difficulties in using the operation and need support, please contact me through the following methods，I try my best to help everyone.don't money.——如果您在使用操作方面遇到任何困难并需要支持，请通过以下方式与我联系，我尽力帮助每个人,不要钱。
 
 
 

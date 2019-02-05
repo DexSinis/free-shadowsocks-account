@@ -63,11 +63,11 @@ Server ip（服务器ip）：
 <br>13.251.38.209	32010	chacha20	http://gggg.rocks	SG	
 <br>192.241.219.117	15492	aes-256-cfb	isx.yt-89836271		US	
 <br>46.29.162.46	1026	rc4-md5	91vpn.cf	RU	
-
-
-
-
-
+<br>
+<br>
+<br>People who like my article can make a voluntary donation——喜欢我的文章的人可以自愿捐款
+<br>1:支付宝账户 aaaa32110@tom.com
+<br>2：微信 <a href="www.index.html">付款码超链接</a>
 
 
 

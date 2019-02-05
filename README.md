@@ -32,7 +32,7 @@ Server ip（服务器ip）：
 <br> Obfs (混淆) ：plain
 &nbsp;
 
-Server ip(服务器ip)&nbsp;Port(端口)&nbsp;Encryption(加密方式)&nbsp;Password(密码)&nbsp;ip address(ip地址)
+Server ip(服务器ip)&nbsp;&nbsp;&nbsp;Port(端口)&nbsp;&nbsp;&nbsp;Encryption(加密方式)&nbsp;Password(密码)&nbsp;ip address(ip地址)
 <br>178.128.99.63	14857	aes-256-cfb	ssx.re-89895981	SG	
 <br>66.42.106.232	1984	aes-256-cfb	njurjzls	US	
 <br>103.124.105.211	80	aes-256-cfb	dongtaiwang.com	US	

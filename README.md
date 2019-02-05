@@ -68,6 +68,8 @@ Server ip（服务器ip）：
 <br>People who like my article can make a voluntary donation——喜欢我的文章的人可以自愿捐款
 <br>1:支付宝账户 aaaa32110@tom.com
 <br>2：微信 付款码超链接:https://pan.baidu.com/s/1Uk7sHh1SQZkd9rqcgJm5IA 提取码:hjx7 
+<br>3:PayPal:I have not registered paypal for the time being. If this article can help foreign compatriots, I am honored.
+
 
 
 

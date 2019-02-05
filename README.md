@@ -72,7 +72,7 @@ Server ip（服务器ip）：
 <br>
 <br>
 <br>
-<br>If you have any difficulties in using the operation and need support, please contact me through the following methods，I try my best to help everyone.don't money.——如果您在使用操作方面遇到任何困难并需要支援，请通过以下方式与我联系，我尽力帮助每个人,不要钱。
+<br>*If you have any difficulties in using the operation and need support, please contact me through the following methods，I try my best to help everyone.don't money.——如果您在使用操作方面遇到任何困难并需要支援，请通过以下方式与我联系，我尽力帮助每个人,不要钱。
 
 
 

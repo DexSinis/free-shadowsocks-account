@@ -80,6 +80,4 @@ Server ip（服务器ip）：
 <br>2:微信snkciy
 <br>3:e-mail ndtcy9@tom.com
 
-<br>国内朋友在连接情况下尽量不要看视频,我推荐国内网VIP视频解析服务 地址：http://vip.wuzuowei.net/ 点进去你们就明白了，此网站无需翻墙也能看。
-
-
+<br>**国内朋友在连接情况下尽量不要看视频,我推荐国内网VIP视频解析服务 地址：http://vip.wuzuowei.net/ 点进去你们就明白了，此网站无需翻墙也能看。

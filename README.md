@@ -66,7 +66,8 @@ Server ip（服务器ip）：
 <br>192.241.219.117	15492	aes-256-cfb	isx.yt-89836271		US	
 <br>46.29.162.46	1026	rc4-md5	91vpn.cf	RU	
 <br>
-<br>For more detailed ip address information, please visit https://www.whois.net/——有关更详细的IP地址信息，请访问https://www.whois.net/
+<br>For more detailed ip address information, please visit https://www.whois.net/
+&nbsp;有关更详细的IP地址信息，请访问https://www.whois.net/
 <br>
 <br>People who like my article can make a voluntary donation，In fact, I hope that you can donate money to me.——喜欢我的文章的人可以自愿捐款，事实上，我希望你能捐钱给我。
 <br>1:支付宝账户 aaaa32110@tom.com

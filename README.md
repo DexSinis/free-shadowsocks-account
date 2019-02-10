@@ -36,7 +36,7 @@ Server ip（服务器ip）：
 
 <br>The following account success rate will be higher——以下帐户成功率会更高
 <br>
-<br>Server ip(服务器ip)&nbsp;&nbsp;&nbsp;Port(端口)&nbsp;&nbsp;&nbsp;Encryption(加密方式)&nbsp;&nbsp;&nbsp;Password(密码)&nbsp;&nbsp;Update time&nbsp;ip address(ip地址)
+<br>Server ip(服务器ip)&nbsp;&nbsp;&nbsp;Port(端口)&nbsp;&nbsp;&nbsp;Encryption(加密方式)&nbsp;&nbsp;&nbsp;Password(密码)&nbsp;&nbsp;Update time&nbsp;&nbsp;&nbsp;ip address(ip地址)
 <br>192.241.223.20	19267	ssx.re-41039949	aes-256-cfb	14:37:04	US	
 <br>128.199.154.243	11341	ss8.pm-09007567	aes-256-cfb	14:37:05	SG	
 <br>139.162.56.87	15776	f55.fun-53426001	aes-256-cfb	14:37:05	SG	

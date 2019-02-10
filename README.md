@@ -14,7 +14,7 @@ Server ip（服务器ip）：
 
 <br>1：Server ip（服务器ip）：192.99.247.66 
 <br>Port（端口）：39000
-<br>Password（密码）：261356
+<br>Password（密码）：609986
 <br>Encryption （加密方式）：aes-256-cfb
 <br>Protocol （协议）：origin
 <br> Obfs (混淆) ：plain
@@ -68,7 +68,7 @@ Server ip（服务器ip）：
 <br>
 <br>For more detailed ip address information, please visit https://www.whois.net/——有关更详细的IP地址信息，请访问https://www.whois.net/
 <br>
-<br>People who like my article can make a voluntary donation，In fact, I hope that you can donate some money to me.——喜欢我的文章的人可以自愿捐款，事实上，我希望你能捐出一些钱给我。
+<br>People who like my article can make a voluntary donation，In fact, I hope that you can donate money to me.——喜欢我的文章的人可以自愿捐款，事实上，我希望你能捐钱给我。
 <br>1:支付宝账户 aaaa32110@tom.com
 <br>2：微信 付款码超链接:https://pan.baidu.com/s/1Uk7sHh1SQZkd9rqcgJm5IA 提取码:hjx7 
 <br>3:PayPal:I have not registered paypal for the time being. If this article can help foreign compatriots, I am honored.

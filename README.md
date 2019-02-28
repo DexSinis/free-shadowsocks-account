@@ -7,7 +7,7 @@ These are the ss accounts that I use frequently on the Internet. Now all of them
 
 <br>1：Server ip（服务器ip）：192.99.247.66 
 <br>Port（端口）：39000
-<br>Password（密码）：609986
+<br>Password（密码）：161731
 <br>Encryption （加密方式）：aes-256-cfb
 <br>Protocol （协议）：origin
 <br> Obfs (混淆) ：plain

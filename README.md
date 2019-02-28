@@ -5,13 +5,6 @@ These are the ss accounts that I use frequently on the Internet. Now all of them
 
 <br>·Do not use it for illegal activities! !
 
-Server ip（服务器ip）：
-<br>Port（端口）：
-<br>Password（密码）：
-<br>Encryption （加密方式）：
-<br>Protocol （协议）：
-<br> Obfs (混淆) ：
-
 <br>1：Server ip（服务器ip）：192.99.247.66 
 <br>Port（端口）：39000
 <br>Password（密码）：609986

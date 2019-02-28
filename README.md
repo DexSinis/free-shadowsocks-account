@@ -13,14 +13,14 @@ These are the ss accounts that I use frequently on the Internet. Now all of them
 <br> Obfs (混淆) ：plain
 
 2：Server ip（服务器ip）：103.114.161.158
-<br>Port（端口）：6666
-<br>Password（密码）：renminbao.com
+<br>Port（端口）：16783
+<br>Password（密码）：dongtaiwang.com
 <br>Encryption （加密方式）：AES-256-CFB
 <br>Protocol （协议）：origin
 <br> Obfs (混淆) ：plain
 
 3：Server ip（服务器ip）：103.114.161.160
-<br>Port（端口）：8888
+<br>Port（端口）：28456
 <br>Password（密码）：ntdtv.com
 <br>Encryption （加密方式）：Aes-256-cfb
 <br>Protocol （协议）：origin
